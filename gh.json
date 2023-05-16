@@ -1,4 +1,4 @@
-﻿{"spider":"https://github.com/ysuolmai/tvbox/raw/main/fan.jar",
+{"spider":"https://ghproxy.com/https://github.com/ysuolmai/tvbox/raw/main/fan.jar",
   "sites": [
     {
       "key": "csp_77",
@@ -55,7 +55,7 @@
         "searchable":1,
         "quickSearch":1,
         "filterable":1,
-        "jar":"https://github.com/ysuolmai/tvbox/raw/main/ali.jar"
+        "jar":"https://ghproxy.com/https://github.com/ysuolmai/tvbox/raw/main/ali.jar"
       },
 
       {
@@ -66,7 +66,7 @@
         "searchable":1,
         "changeable": 0,
         "filterable":1,
-        "jar":"https://github.com/ysuolmai/tvbox/raw/main/ali.jar"
+        "jar":"https://ghproxy.com/https://github.com/ysuolmai/tvbox/raw/main/ali.jar"
       },
           
       {
@@ -77,7 +77,7 @@
         "searchable":1,
         "filterable":1,
         "changeable": 0,
-        "jar":"https://github.com/ysuolmai/tvbox/raw/main/ali.jar"
+        "jar":"https://ghproxy.com/https://github.com/ysuolmai/tvbox/raw/main/ali.jar"
       },
           
       {
@@ -88,7 +88,7 @@
         "searchable":1,
         "changeable": 0,
         "filterable":1,
-        "jar":"https://github.com/ysuolmai/tvbox/raw/main/ali.jar"
+        "jar":"https://ghproxy.com/https://github.com/ysuolmai/tvbox/raw/main/ali.jar"
       },
       {
         "key":"csp_WoGG",
@@ -116,7 +116,7 @@
             "scVodImg": "/@null",
             "scVodMark": ""
         },
-            "jar":"https://github.com/ysuolmai/tvbox/raw/main/ali.jar"
+            "jar":"https://ghproxy.com/https://github.com/ysuolmai/tvbox/raw/main/ali.jar"
         }
   ]
 }
