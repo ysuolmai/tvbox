@@ -1,0 +1,122 @@
+﻿{"spider":"https://github.com/ysuolmai/tvbox/raw/main/fan.jar",
+  "sites": [
+    {
+      "key": "csp_77",
+      "name": "七七┃App",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_apple",
+      "name": "苹果┃App",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+    {
+      "key": "csp_kuaikan",
+      "name": "快看┃App",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Nbys",
+      "name": "泥巴|墙外",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_appys_如意4K",
+      "name": "如意|采集",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cms.maoyingshi.cc/api.php/app/"
+    },
+    {
+        "key":"csp_Paper",
+        "name":"🐝纸条",
+        "type":3,
+        "api":"csp_Paper",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "jar":"https://github.com/ysuolmai/tvbox/raw/main/ali.jar"
+      },
+
+      {
+        "key":"Upyunso",
+        "name":"🐝云搜",
+        "type":3,
+        "api":"csp_UpYun",
+        "searchable":1,
+        "changeable": 0,
+        "filterable":1,
+        "jar":"https://github.com/ysuolmai/tvbox/raw/main/ali.jar"
+      },
+          
+      {
+        "key":"Alips",
+        "name":"🐝盘搜",
+        "type":3,
+        "api":"csp_PanSou",
+        "searchable":1,
+        "filterable":1,
+        "changeable": 0,
+        "jar":"https://github.com/ysuolmai/tvbox/raw/main/ali.jar"
+      },
+          
+      {
+        "key":"Yisou",
+        "name":"🐝易搜",
+        "type":3,
+        "api":"csp_YiSo",
+        "searchable":1,
+        "changeable": 0,
+        "filterable":1,
+        "jar":"https://github.com/ysuolmai/tvbox/raw/main/ali.jar"
+      },
+      {
+        "key":"csp_WoGG",
+        "name":"📀玩偶哥哥",
+        "type":3,
+        "api":"csp_WoGG",
+        "searchable":1,
+        "changeable": 0,
+        "filterable":1
+      },
+      {
+        "key": "csp_XPathAli_tgss",
+        "name": "💿土狗",
+        "type": 3,
+        "api": "csp_XPathAli",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0,
+        "ext": {
+            "searchUrl": "https://www.tugousou.com/search?keyword={wd};post",
+            "scVodNode": "//div[contains(@class, 'layui-container')]//div[contains(@class, 'layui-row')]//div//p//a",
+            "scVodName": "/text()",
+            "scVodId": "/@href",
+            "scVodIdR": "",
+            "scVodImg": "/@null",
+            "scVodMark": ""
+        },
+            "jar":"https://github.com/ysuolmai/tvbox/raw/main/ali.jar"
+        }
+  ]
+}
