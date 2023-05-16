@@ -1,0 +1,426 @@
+{"spider":"https://github.wahlau.workers.dev/https://github.com/ysuolmai/tvbox/raw/main/fan.jar",
+  "sites": [
+    {
+      "key": "drpy_js_豆瓣",
+      "name": "豆瓣|首页",
+      "type": 3,
+      "api": "./drpy2.min.js",
+      "searchable": 0,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./drpy.js"
+    },
+        {
+      "key": "csp_77",
+      "name": "七七┃App",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+		{
+			"key": "小苹果",
+			"name": "小苹果｜App",
+			"type": 3,
+			"api": "csp_LiteApple",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+    {
+      "key": "csp_kuaikan",
+      "name": "快看┃App",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+                    {
+         "key": "csp_appys_如意4K",
+         "name": "如意|采集",
+         "type": 3,
+         "api": "csp_AppYsV2",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": "http://cms.maoyingshi.cc/api.php/app/"
+    },       
+        {
+    "key":"酷影",
+    "name":"酷影|采集",
+    "type":3,
+    "api":"csp_AppYsV2",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://kuying.kuyouk.top:9528/api.php/app/"
+    },
+        {
+"key" : "csp_AppMr",
+"name" : "明明 | App",
+"type" : 3,
+"api" : "csp_AppMr",
+"searchable" : 1,
+"quickSearch" : 1,
+"filterable" : 1
+},
+      {
+      "key": "csp_Dy1010",
+      "name": "双十┃直连",
+      "type": 3,
+      "api": "csp_Dy1010",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+            {
+            "key": "csp_BuLei",
+            "name": "布雷┃直连",
+            "type": 3,
+            "api": "csp_BuLei",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://kan.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"
+        },
+        {
+      "key": "csp_Bd",
+      "name": "哔嘀┃直连",
+      "type": 3,
+      "api": "csp_Bdys01",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+         {
+         "key": "csp_Lgyy",
+      "name": "蓝光┃直连",
+      "type": 3,
+      "api": "csp_Lgyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.lgyy.vip"
+    },
+                {
+            "key": "csp_XBPQ_hdmoli",
+            "name": "HDmoli|直连",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "{ \n      \"免嗅\":\"0\",\n     \"播放数组\":\"class=\\\"myui-content__list sort-list clearfix&&</ul>\",\n     \"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\n     \"简介\":\"class=\\\"left text-muted\\\"&&</span>\", \n     \"分类\":\"电影$1#电视剧$2#动漫$41#综艺$39\",\n     \"分类url\":\"https://hdmoli.com/mlist/index{cateId}-{catePg}.html\"}"
+        },
+            {
+            "key": "新视觉",
+            "name": "新视觉｜直连",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.6080dy3.com"
+        },
+    {
+      "key": "csp_DiDuan",
+      "name": "低端┃直连",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+            {
+            "key": "csp_Smdyy",
+            "name": "神马┃直连",
+            "type": 3,
+            "api": "csp_Smdyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+    {
+      "key": "csp_Cokemv",
+      "name": "可乐┃直连",
+      "type": 3,
+      "api": "csp_Cokemv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+{
+"key" : "csp_fantuan",
+"name" : "饭团┃直连",
+"type" : 3,
+"api" : "csp_Fantuan",
+"m3u8ads" : "hd.youyhn.com",
+"searchable" : 1,
+"quickSearch" : 1,
+"filterable" : 1,
+"ext" : "https://www.fantuanhd.com"
+},
+{
+  "key": "csp_XBPQ_VOFLIX",
+  "name": "VOFLIX┃直连",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "{\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://www.voflix.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html\"}"
+},
+        {
+            "key": "csp_王者",
+            "name": "王者|JS",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./王者影视.json"
+        },
+     {
+            "key": "csp_zxzjH3",
+            "name": "在线H3┃影视",
+            "type": 3,
+            "api": "csp_ZxzjH3",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.zxzjhd.com"
+        },
+        {
+      "key": "csp_XBPQ秋霞影视",
+      "name": "秋霞|采集",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "分类": "电影$1#连续剧$2#动漫$4#综艺$3",
+        "分类url": "https://www.qiuxia360.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
+        "跳转播放链接": "https://www.jfxz689.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"",
+        "二次跳转播放链接": "https://www.jfxz689.com/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
+        "三次跳转播放链接": "\"url\"*\"&&\""
+      }
+    },
+
+              {
+            "key": "非凡",
+            "name": "️非凡|采集",
+            "type": 1,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "直播",
+                "短片",
+                "国产剧",
+                "综艺",
+                "影片库",
+                "动漫"
+            ]
+        },
+          {
+            "key": "量子",
+            "name": "️量子|采集",
+            "type": 1,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "直播",
+                "短片",
+                "国产剧",
+                "综艺",
+                "影片库",
+                "动漫"
+            ]
+        },
+          {
+            "key": "干饭",
+            "name": "️干饭|采集",
+            "type": 1,
+            "api": "http://124.220.183.81:83/api.php/provide/vod/",
+            "playUrl": "https://jx.bozrc.com:4433/player/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "电影",
+                "剧集",
+                "综艺",
+                "动漫"
+            ]
+        },
+        {
+            "key": "飞速",
+            "name": "️飞速|采集",
+            "type": 1,
+            "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "国产剧",
+                "综艺"
+            ]
+        },
+ {
+ "key":"csp_Anime1",
+ "name":"动漫Anime",
+ "type":3,
+ "api":"csp_Anime1",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1
+ },
+{
+"key" : "Dm84",
+"name" : " 动漫 | 巴士",
+"type" : 3,
+"api" : "csp_Dm84",
+"searchable" : 1,
+"quickSearch" : 1,
+"filterable" : 1
+},
+{
+"key":"csp_WoGG",
+"name":"📀TVFan",
+"type":3,
+"api":"csp_WoGG",
+"searchable":1,
+"changeable": 0,
+"filterable":1
+},
+{
+"key":"Upyunso",
+"name":"📀云搜",
+"type":3,
+"api":"csp_UpYun",
+"searchable":1,
+"changeable": 0,
+"filterable":1
+},
+    {
+"key":"盤搜索",
+"name":"📀PanSearch",
+"type":3,
+"api":"csp_PanSearch",
+"searchable":1,
+"filterable":0,
+"changeable":0
+},
+{
+"key":"Alips",
+"name":"📀盘搜",
+"type":3,
+"api":"csp_PanSou",
+"searchable":1,
+"filterable":1,
+"changeable": 0
+},
+    
+{
+"key":"Yisou",
+"name":"📀易搜",
+"type":3,
+"api":"csp_YiSo",
+"searchable":1,
+"changeable": 0,
+"filterable":1
+},
+{
+"key":"找资源",
+"name":"📀找资源",
+"type":3,
+"api":"csp_Zhaozy",
+"searchable":1,
+"filterable":0,
+"changeable":0,
+"ext":"./alitoken.txt $$$xiaohutx$$$xiaohutx"
+},
+{
+"key":"蜂蜜天下第一",
+"name":"📀七夜",
+"type":3,
+"api":"csp_Dovx",
+"searchable":1,
+"filterable":0,
+"changeable":0
+},
+        {
+            "key": "纸条",
+            "name": "💿纸条",
+            "type": 3,
+            "api": "csp_Paper",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+          "jar":"https://github.wahlau.workers.dev/https://raw.githubusercontent.com/ysuolmai/tvbox/main/ali",
+          "ext":"https://agit.ai/fanxing/XO/raw/branch/master/tok.txt"
+        },
+                       {
+            "key": "csp_XPathAli_tgss",
+            "name": "💿土狗",
+            "type": 3,
+            "api": "csp_XPathAli",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                "searchUrl": "https://www.tugousou.com/search?keyword={wd};post",
+                "scVodNode": "//div[contains(@class, 'layui-container')]//div[contains(@class, 'layui-row')]//div//p//a",
+                "scVodName": "/text()",
+                "scVodId": "/@href",
+                "scVodIdR": "",
+                "scVodImg": "/@null",
+                "scVodMark": ""
+            },
+                "jar":"https://github.wahlau.workers.dev/https://raw.githubusercontent.com/ysuolmai/tvbox/main/ali"
+            },
+        {
+      "key": "push_agent",
+      "name": "推送 | 磁力",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    }
+  ],
+  "wallpaper": "https://picsum.photos/1280/720/?blur=5"
+}
