@@ -1,6 +1,15 @@
 {"spider":"https://github.wahlau.workers.dev/https://github.com/ysuolmai/tvbox/raw/main/fan.jar",
   "sites": [
     {
+      "key": "csp_Nbys",
+      "name": "泥巴|墙外",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_77",
       "name": "七七┃App",
       "type": 3,
@@ -24,15 +33,6 @@
       "name": "快看┃App",
       "type": 3,
       "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Nbys",
-      "name": "泥巴|墙外",
-      "type": 3,
-      "api": "csp_NiNi",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
