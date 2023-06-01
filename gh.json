@@ -55,7 +55,6 @@
         "searchable":1,
         "quickSearch":1,
         "filterable":1,
-        "ext": "https://raw.liucn.cc/box/sub/ext/token.txt",
         "jar":"https://github.wahlau.workers.dev/https://github.com/ysuolmai/tvbox/raw/main/ali.jar"
       },
 
@@ -78,7 +77,6 @@
         "searchable":1,
         "filterable":1,
         "changeable": 0,
-        "ext": "https://raw.liucn.cc/box/sub/ext/token.txt",
         "jar":"https://github.wahlau.workers.dev/https://github.com/ysuolmai/tvbox/raw/main/ali.jar"
       },
           
@@ -90,7 +88,6 @@
         "searchable":1,
         "changeable": 0,
         "filterable":1,
-        "ext": "https://raw.liucn.cc/box/sub/ext/token.txt",
         "jar":"https://github.wahlau.workers.dev/https://github.com/ysuolmai/tvbox/raw/main/ali.jar"
       },
       {
