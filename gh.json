@@ -1,4 +1,11 @@
 {"spider":"./fan",
+    "drives": [
+        {
+            "name": "小雅的Alist",
+            "server": "http://alist.xiaoya.pro",
+            "type": "alist"
+        }
+      ],
   "sites": [
     {
       "key": "csp_Nbys",
