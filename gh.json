@@ -1,11 +1,4 @@
 {"spider":"./fan",
-  "drives": [
-        {
-            "name": "小雅",
-            "server": "http://172.28.1.7:5678",
-            "type": "alist"
-        }
-    ],
   "sites": [
     {
       "key": "csp_Nbys",
