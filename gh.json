@@ -127,6 +127,7 @@
                 "filterable": 1,
           "api" : "./alist.min.js",
           "ext" : "./alist.json"
+          "jar":"./ali.jar"
          }
   ]
 }
