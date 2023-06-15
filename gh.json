@@ -127,7 +127,7 @@
             "changeable": 0,
             "filterable": 1,
             "ext": {
-                "drives": [
+                [
                   {"name":"xy","server":"http://172.28.1.7:5678","showAll":false,"search":true} 
                 ]
             }
