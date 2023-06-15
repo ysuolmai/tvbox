@@ -119,10 +119,10 @@
             "jar":"./ali.jar"
         },
         {
-            "key": "AList",
+            "key" : "drpy_js_Alist",
             "name": "AList | csp",
             "type": 3,
-            "api": "csp_AList",
+            "api" : "./alist.min.js",
             "searchable": 1,
             "changeable": 0,
             "filterable": 1,
