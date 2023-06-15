@@ -1,8 +1,8 @@
 [
-            {
+    {
         "name": "小雅",
-      "server": "IP",
+      "server": "http://172.28.1.5:5678",
         "showAll" : false,
         "search" : true
     }
-    }]
+]
