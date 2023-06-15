@@ -119,15 +119,14 @@
             "jar":"./ali.jar"
         },
        {
-          "key" : "drpy_js_Alist",
-          "name" : "Alist | 网盘",
-          "type" : 3,
+          "key": "drpy_js_Alist",
+          "name": "Alist | 网盘",
+          "type": 3,
             "searchable": 1,
                 "changeable": 0,
                 "filterable": 1,
-          "api" : "./alist.min.js",
-          "ext" : "./alist.json",
-          "jar":"./ali.jar"
-         }
+          "api": "./alist.min.js",
+          "ext": "./alist.json"         
+       }
   ]
 }
