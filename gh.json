@@ -2,7 +2,7 @@
     "drives": [
         {
             "name": "小雅的Alist",
-            "server": "http://alist.xiaoya.pro",
+            "server": "http://172.28.1.7:5678",
             "type": "alist"
         }
       ],
