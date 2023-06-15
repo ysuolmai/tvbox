@@ -1,11 +1,4 @@
 {"spider":"./fan",
-    "drives": [
-        {
-            "name": "小雅的Alist",
-            "server": "http://172.28.1.7:5678",
-            "type": "alist"
-        }
-      ],
   "sites": [
     {
       "key": "csp_Nbys",
@@ -122,8 +115,18 @@
             "scVodIdR": "",
             "scVodImg": "/@null",
             "scVodMark": ""
-        },
+            },
             "jar":"./ali.jar"
-        }
+        },
+        {
+            "key": "AList",
+            "name": "AList | csp",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": "./Alistcsp.json"
+        },
   ]
 }
