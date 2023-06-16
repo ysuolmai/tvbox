@@ -1,7 +1,7 @@
 [
     {
         "name": "小雅",
-      "server": "172.28.1.5:5678",
+      "server": "http://172.28.1.7:5678",
         "showAll" : false,
         "search" : true
     }
