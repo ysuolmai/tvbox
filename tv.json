@@ -1,0 +1,52 @@
+{"spider":"./fan",
+  "sites": [
+    {
+      "key": "csp_Nbys",
+      "name": "泥巴|墙外",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_77",
+      "name": "七七┃App",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+    {
+      "key": "csp_kuaikan",
+      "name": "快看┃App",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_appys_如意4K",
+      "name": "如意|采集",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cms.maoyingshi.cc/api.php/app/"
+    },
+          
+      {
+        "key":"csp_WoGG",
+        "name":"📀玩偶哥哥",
+        "type":3,
+        "api":"csp_WoGG",
+        "searchable":1,
+        "changeable": 0,
+        "filterable":1
+      }
+  ]
+}
