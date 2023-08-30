@@ -2,6 +2,16 @@
     "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad", 
     "sites": [
 	{
+            "key": "csp_Nbys",
+            "name": "🛫泥巴┃飞",
+            "type": 3,
+            "api": "csp_NiNi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            “ext": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4a0dc0ae860c90d0001f1fc0fae230f7"
+ 	},
+	{
 	    "key":"Alist",
 	    "name":"Alist",
 	    "type":3,
